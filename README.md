@@ -1,6 +1,5 @@
 # Download and Install Python and SciPy Ecosystem
 Start Python for the first time from command line by typing "python" at the command line.  Check the versions of everything you are going to need using the code below:
-#Basic-Python-and-SciPy-Syntax 
 Python version
 import sys
 print('Python: {}'.format(sys.version))
@@ -19,6 +18,9 @@ print('pandas: {}'.format(pandas.__version__))
 scikit-learn
 import sklearn
 print('sklearn: {}'.format(sklearn.__version__))
+
+#Basic-Python-and-SciPy-Syntax 
+
 # Get Around In Python, NumPy, Matplotlib and Pandas
 # Load Data and Standard Machine Learning Datasets
 # Understand Data with Descriptive Statistics.
